@@ -10,9 +10,9 @@ I'm most interested in how services communicate: REST APIs, messaging and event-
 |---|---|---|
 | [orbit-graduate-system](https://github.com/vanessa-botsime/orbit-graduate-system) | Event-driven graduate application tracker with a bronze/silver/gold data layer | Spring Boot, Kafka, PostgreSQL, React |
 | [orbit-sentinel](https://github.com/vanessa-botsime/orbit-sentinel) | Security event monitor and audit trail consuming Orbit's events | Java, Kafka |
-| [logisticsconnect](https://github.com/vanessa-botsime/logisticsconnect) | LightShed: distributed load-shedding system | Java, REST, ActiveMQ/JMS |
-| [trafficflow](https://github.com/vanessa-botsime/trafficflow) | Traffic light and congestion routing microservices | Java, Javalin, ActiveMQ |
-| [currency-exchange-etl-pipeline](https://github.com/vanessa-botsime/currency-exchange-etl-pipeline) | Currency rate ETL and analytics | Python, SQL |
+| [logisticsconnect](https://github.com/vanessa-botsime/sin-001-logisticsconnect) | LightShed: distributed load-shedding system | Java, REST, ActiveMQ/JMS |
+| [trafficflow](https://github.com/vanessa-botsime/sin-002-trafficflow) | Traffic light and congestion routing microservices | Java, Javalin, ActiveMQ |
+| [currency-exchange-etl-pipeline](https://github.com/vanessa-botsime/-Currency-Exchange-Rate-ETL-Analytics-Pipeline) | Currency rate ETL and analytics | Python, SQL |
 
 ## Tech
 
