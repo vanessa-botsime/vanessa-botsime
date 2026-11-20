@@ -31,7 +31,7 @@ I'm most interested in how services communicate: REST APIs, messaging and event-
 - **WeThinkCode_**: GenAI Course for Professionals (Nov 2026)
 - **IBM (edX)**: Data Engineering Basics for Everyone · Relational Database Basics
 - **Forage job simulations**: JPMorgan Chase (Software Engineering) · Wells Fargo (Software Engineering) · Blackbird / Harrison.ai (Software Engineering) · Mastercard (Advisors & Consulting Services)
-- **AWS Cloud Practitioner**: in progress, exam booked for 11 Month 2026
+- **AWS Cloud Practitioner**: in progress, exam booked for 07 December 2026
 
 ## Contact
 
